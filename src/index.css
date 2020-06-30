@@ -16,6 +16,8 @@ code {
   color: #A9A9A9;
 }
 
+
+
 .auth-form {
   background-color: #F0F8FF;
   /* padding-top: 135px;
@@ -32,6 +34,10 @@ code {
 
 /* component font color */
 .home {
+  color: #F65058FF;
+}
+
+.restaurant {
   color: #F65058FF;
 }
 
